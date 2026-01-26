@@ -1,9 +1,12 @@
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f4f4f8;
+    background-color: #6b5;
     color: #222;
     margin: 0;
     padding: 0;
+    background-image: url(Star-wars-logo-new-tall.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 header {
