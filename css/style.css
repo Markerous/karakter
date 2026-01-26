@@ -70,3 +70,8 @@ ul {
 strong {
     color: #4a90e2;
 }
+img {
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px; /* opcionális, lekerekített sarkok */
+}
