@@ -24,40 +24,6 @@ h2 {
     border-bottom: 2px solid #4a90e2;
     padding-bottom: 5px;
 }
-
-section.card {
-    margin: 15px;
-    padding: 15px;
-    border-radius: 10px;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.1);
-    transition: transform 0.2s;
-}
-
-section.card:hover {
-    transform: translateY(-3px);
-}
-
-.family { background-color: #fde2e2; }
-.names { background-color: #e2f0fd; }
-.love { background-color: #fff0e2; }
-.faith { background-color: #e2fde2; }
-.races { background-color: #f9e2fd; }
-.politics { background-color: #fef4e2; }
-.domestic { background-color: #e2f9fd; }
-.war { background-color: #fde2f0; }
-.leisure { background-color: #f0fde2; }
-.profession { background-color: #e2f0fd; }
-.routine { background-color: #fef0e2; }
-.arts { background-color: #e2fde2; }
-.friends { background-color: #fde2e2; }
-.food { background-color: #fff0e2; }
-.drinks { background-color: #e2f0fd; }
-.climate { background-color: #f9e2fd; }
-.nature { background-color: #fef4e2; }
-.colors { background-color: #e2f9fd; }
-.selfimage { background-color: #fde2f0; }
-.goals { background-color: #f0fde2; }
-
 p, ul {
     font-size: 1em;
     line-height: 1.5em;
@@ -73,5 +39,4 @@ strong {
 img {
     display: block;
     margin: 10px auto;
-    border-radius: 10px; /* opcionális, lekerekített sarkok */
 }
