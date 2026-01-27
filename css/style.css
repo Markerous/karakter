@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-image: url(Star-wars-logo-new-tall.webp);
-    background-size:auto;
+    background-size:contain;
     background-repeat: no-repeat;
     background-position: center;
 }
