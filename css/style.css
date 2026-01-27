@@ -1,6 +1,6 @@
 body {
     background-color: #6b5;
-    color: #222;
+    color: yellow;
     margin: 0;
     padding: 0;
     background-image: url(Star-wars-logo-new-tall.webp);
@@ -23,7 +23,7 @@ h1 {
 
 h2 {
     margin-top: 0;
-    color: #333;
+    color: #ffffff;
     border-bottom: 2px solid #4a90e2;
     padding-bottom: 5px;
 }
