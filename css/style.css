@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-image: url(Star-wars-logo-new-tall.webp);
-    background-size: cover;
+    background-size:auto;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -39,7 +39,7 @@ ul {
 strong {
     color: #4a90e2;
 }
-Valen Quoros {
+.ValenQuoros {
     display: block;
     margin: 10px auto;
 }
